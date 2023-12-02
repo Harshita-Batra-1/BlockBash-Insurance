@@ -1,4 +1,4 @@
-# DIGIFI BUILDATHON 2023
+# BLOCKBASH 2023
 
 # CredSeg: Revolutionizing the World of Insurance using Blockchain: Affordable Values and Debureaucratization in Action
 
